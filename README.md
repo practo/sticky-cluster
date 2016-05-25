@@ -1,5 +1,5 @@
 # sticky-cluster
-
+Added reload functionality on SIGUSR2
 
 ### What is it
 
