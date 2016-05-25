@@ -1,0 +1,96 @@
+{
+  "_args": [
+    [
+      "sticky-cluster",
+      "/home/vagrant/www/chronos-pusher"
+    ]
+  ],
+  "_from": "sticky-cluster@latest",
+  "_id": "sticky-cluster@0.1.2",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/sticky-cluster",
+  "_nodeVersion": "0.12.2",
+  "_npmUser": {
+    "email": "denis.zhbankov@gmail.com",
+    "name": "uqee"
+  },
+  "_npmVersion": "2.8.4",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "sticky-cluster",
+    "raw": "sticky-cluster",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/sticky-cluster/-/sticky-cluster-0.1.2.tgz",
+  "_shasum": "70756e884a24bcb72066a233bf0fc90e3a48741f",
+  "_shrinkwrap": null,
+  "_spec": "sticky-cluster",
+  "_where": "/home/vagrant/www/chronos-pusher",
+  "author": {
+    "name": "Denis Zhbankov"
+  },
+  "bugs": {
+    "url": "https://github.com/uqee/sticky-cluster/issues"
+  },
+  "dependencies": {
+    "chance": "^0.7.5",
+    "string-hash": "^1.1.0"
+  },
+  "description": "Sticky session balancer, 10x faster and with much better scattering than `sticky-session` module",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "70756e884a24bcb72066a233bf0fc90e3a48741f",
+    "tarball": "https://registry.npmjs.org/sticky-cluster/-/sticky-cluster-0.1.2.tgz"
+  },
+  "engines": {
+    "node": "0.12.x"
+  },
+  "gitHead": "010d71baee2fa0be7f2e817466c2a8e3ee123408",
+  "homepage": "https://github.com/uqee/sticky-cluster#readme",
+  "keywords": [
+    "cluster",
+    "sticky",
+    "sticky-session",
+    "sticky-cluster"
+  ],
+  "main": "./lib/index",
+  "maintainers": [
+    {
+      "email": "denis.zhbankov@gmail.com",
+      "name": "uqee"
+    }
+  ],
+  "name": "sticky-cluster",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uqee/sticky-cluster.git"
+  },
+  "scripts": {},
+  "version": "0.1.2",
+  "warnings": [
+    {
+      "code": "ENOTSUP",
+      "pkgid": "sticky-cluster@0.1.2",
+      "required": {
+        "node": "0.12.x"
+      }
+    },
+    {
+      "code": "ENOTSUP",
+      "pkgid": "sticky-cluster@0.1.2",
+      "required": {
+        "node": "0.12.x"
+      }
+    }
+  ]
+}
